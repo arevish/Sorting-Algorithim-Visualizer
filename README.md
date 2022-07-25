@@ -26,11 +26,11 @@ Select the type of sorting algorithm then select the order of in ascending  or d
  
  ## Sorting method
  ![Alt text](http://freefeast.info/wp-content/uploads//2013/01/Insertion-Sort-Model11.jpg)
-<!-- 
+ 
 ### DEMO - 
-![sorting algorithm]
 
--->
+![sorting demo](https://user-images.githubusercontent.com/91308138/180707539-d5697c09-4a5f-4e7b-b89c-319551c9b2ed.gif)
+
 
 PLEASE FEEL FREE TO FORK THE PROJECT AND START CONTRIBUTING. :)
 
